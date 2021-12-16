@@ -30,8 +30,9 @@ Please do your necessary simultaneous tests.
 
 ## CVE-2021-44228
 
-https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228
-https://nvd.nist.gov/vuln/detail/CVE-2021-44228
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228
+
+- https://nvd.nist.gov/vuln/detail/CVE-2021-44228
 
 
 ## Contact
