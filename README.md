@@ -18,7 +18,7 @@ At the next stage, it will search inside the "JndiLookup.class" file in vulnerab
 ## Usage
 
 ```none
-on any command screen > log4jscanner.exe
+on any command screen > Log4j.exe
 ```
 
 
