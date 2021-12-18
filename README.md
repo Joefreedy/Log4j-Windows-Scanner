@@ -14,6 +14,8 @@ Please follow these folders. Make sure you run it with administrator privilege.
 
 At the next stage, it will search inside the "JndiLookup.class" file in vulnerable versions.
 
+![alt text](https://i.imgur.com/CmRuyIX.png)
+
 
 ## Usage
 
